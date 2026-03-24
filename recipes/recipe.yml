@@ -6,7 +6,7 @@ name: xfo-bazzite
 description: This is my personal OS image but bazzite lol.
 
 # the base image to build on top of (FROM) and the version tag to use
-base-image: ghcr.io/ublue-os/bazzite-nvidia-open 
+base-image: ghcr.io/ublue-os/kinoite-nvidia
 image-version: 43 
 
 # module configuration, executed in order
