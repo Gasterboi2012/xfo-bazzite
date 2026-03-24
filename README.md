@@ -1,4 +1,4 @@
-# xfo-bazzite &nbsp; [![bluebuild build badge](https://github.com/gasterboi2012/xfo-experimental/actions/workflows/build.yml/badge.svg)](https://github.com/gasterboi2012/xfo-experimental/actions/workflows/build.yml)
+# xfo-experimental &nbsp; [![bluebuild build badge](https://github.com/gasterboi2012/xfo-experimental/actions/workflows/build.yml/badge.svg)](https://github.com/gasterboi2012/xfo-experimental/actions/workflows/build.yml)
 
 This is experimental
 
